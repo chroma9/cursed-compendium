@@ -1,8 +1,8 @@
 markdown: kramdown
 
-title: Chroma's Cursed Contraption Compendium
-description: A collection of cursed items for D&D
-color: 2c2c2c
+title: "Chroma's Cursed Contraption Compendium"
+description: "A collection of cursed items for D&D."
+color: "#2c2c2c"
 
 collections:
   items:
